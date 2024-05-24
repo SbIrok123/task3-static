@@ -1,0 +1,15 @@
+ID:WFID001
+Interface:USB 3.0
+Price:50.8
+Speed:70
+
+ID:WFID002
+Interface:HDMI
+Price:185
+Speed:100
+
+ID:WFID003
+Interface:VGA
+Price:90.3
+Speed:200
+
